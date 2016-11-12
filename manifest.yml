@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: szhksong-test
-  host: szhksong-test.mybluemix.net
+  host: szhksong-test
   disk_quota: 1024M
