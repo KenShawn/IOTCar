@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: szhksong-test
-  host: szhksong-test
+  name: szhksong1
+  host: szhksong1
   disk_quota: 1024M
